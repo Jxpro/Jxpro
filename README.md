@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jxpro
-- 👀 I’m interested in Java and Web
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me jxpro@qq.com
