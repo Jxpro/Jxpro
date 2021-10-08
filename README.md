@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me 1529177144@qq.com
+- 📫 How to reach me jxpro@qq.com
 
 <!---
 Jxpro/Jxpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
