@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning **Blockchain**
 - 📫 You can reach me jxpro@qq.com
 
-[![GitHub stats](https://stats-jokerxin.vercel.app/api?username=jxpro&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Jxpro/github-readme-stats)
+[![GitHub stats](https://stats-jxpro.vercel.app/api?username=jxpro&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Jxpro/github-readme-stats)
